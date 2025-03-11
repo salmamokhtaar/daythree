@@ -35,7 +35,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: const Text("Mobile App Developer"),
-          backgroundColor: Colors.amber,
+          backgroundColor: Colors.blueAccent,
           centerTitle: true,
         ),
         body:  Mine(),
